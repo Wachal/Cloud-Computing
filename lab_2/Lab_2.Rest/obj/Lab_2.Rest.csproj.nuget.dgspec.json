@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\Lab_2.Rest\\Lab_2.Rest.csproj": {}
+    "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\lab_2.Rest\\Lab_2.Rest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\Lab_2.Rest\\Lab_2.Rest.csproj": {
+    "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\lab_2.Rest\\Lab_2.Rest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\Lab_2.Rest\\Lab_2.Rest.csproj",
+        "projectUniqueName": "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\lab_2.Rest\\Lab_2.Rest.csproj",
         "projectName": "Lab_2.Rest",
-        "projectPath": "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\Lab_2.Rest\\Lab_2.Rest.csproj",
+        "projectPath": "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\lab_2.Rest\\Lab_2.Rest.csproj",
         "packagesPath": "C:\\Users\\twachal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\Lab_2.Rest\\obj\\",
+        "outputPath": "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\lab_2.Rest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\twachal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,18 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
