@@ -1,4 +1,10 @@
 {
     "appService.defaultWebAppToDeploy": "/subscriptions/4068405f-19d1-4656-8509-46a79c136108/resourceGroups/lab3/providers/Microsoft.Web/sites/aplikacja3",
-    "appService.deploySubpath": "publish"
+    "appService.deploySubpath": "publish",
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.postDeployTask": "npm install (functions)",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "npm prune (functions)"
 }
