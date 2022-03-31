@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lTRMNAOhZwBl00E3nC4N0e/3GVgZs8FAso1w7yEiTiikRpZVdceWQVNNwQWX2QHrR5jUVOsj7aknY9DmPvhhSA==",
+  "dgSpecHash": "6DfRU2u5DMrJlHJKEkGTjeWP62vra56dC3bBVS5y8GGFGjeCeq18V5Fw+OIPZuR0Dr/AHS7uY3k78c+Qz21ciA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\lab_2.Rest\\Lab_2.Rest.csproj",
+  "projectFilePath": "C:\\Users\\twachal\\Desktop\\projekt\\Cloud-Computing\\lab_2\\Lab_2.Rest\\Lab_2.Rest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\twachal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\twachal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
