@@ -17,7 +17,7 @@ public class PeopleController : ControllerBase
         this.db = db;
     }
 
-    [HttpGetS]
+    [HttpGet]
     public async Task<IActionResult> Get()
     {
         var people = await db.People.ToListAsync();
